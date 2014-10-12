@@ -1,0 +1,12 @@
+# Site settings
+title: The Beatific Howlin
+email: ashx@me.com
+description: > # this means to ignore newlines until "baseurl:"
+ This is a place to note down musings, pictures, stories, and everything of the like. It is a means to try out a new platform, and not be too serious, like most of my work, about anything. It is simply a platform to display whatever I feel like.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: X__Ash
+github_username:  Ashriel
+
+# Build settings
+markdown: kramdown
